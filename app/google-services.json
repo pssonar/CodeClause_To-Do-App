@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655144355990",
+    "project_id": "to-do-app-aa34d",
+    "storage_bucket": "to-do-app-aa34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655144355990:android:5feea206713d1f2f9a9ab7",
+        "android_client_info": {
+          "package_name": "com.purushottam.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655144355990-dn33u2qtsura73b1c5cd0gkp72rfbfgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3asiXmRPVIiToUO-wQ36gYbOzRXniso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655144355990-dn33u2qtsura73b1c5cd0gkp72rfbfgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
